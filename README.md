@@ -1,51 +1,62 @@
-# SIM Lab @ SIUE
+# AURA Lab
 
-**Social & Interactive Media Lab — Southern Illinois University Edwardsville**
+**Avatars, Users, Relationships, and Affect Lab — Southern Illinois University Edwardsville**
 
-The SIM Lab studies the humans who use social platforms, virtual environments, and interactive media — from Twitch streams to VR workplaces. Our work spans computational methods, mixed-method design, and behavioral data science, led by [Dr. Alex P. Leith](https://apleith.github.io) and student researchers at SIUE.
+*Where digital presence becomes research.*
 
-🌐 [sim-lab-siue.github.io](https://sim-lab-siue.github.io) &nbsp;|&nbsp; 📝 [Medium](https://medium.com/sim-lab-siue) &nbsp;|&nbsp; 🐦 [@APLeith](https://twitter.com/APLeith) &nbsp;|&nbsp; ✉️ [aleith@siue.edu](mailto:aleith@siue.edu)
+AURA Lab is a computational communication research group at SIUE that studies how people form relationships, perform identity, and experience affect across virtual environments, streaming platforms, and digital media. Led by [Dr. Alex P. Leith](https://apleith.com) and student researchers in the Department of Mass Communications.
 
----
+🌐 [aura-lab-siue.github.io](https://aura-lab-siue.github.io) &nbsp;|&nbsp; ✉️ [aleith@siue.edu](mailto:aleith@siue.edu) &nbsp;|&nbsp; 🆔 [ORCID](https://orcid.org/0000-0003-1310-6763)
 
-## 🔬 Research Focus
-
-### VR & Extended Reality
-We examine social interaction and behavior within immersive digital spaces — from videoconferencing fatigue and team cohesion in virtual meetings to social support in VRChat. This line of research is supported by a **$1.6M NSF grant** on the future of work in VR.
-
-### Platforms & Communities
-We study video game players and the communities that form around gameplay on livestreaming platforms like Twitch — investigating parasocial relationships with streamers, avatar identity, and synchronous chat dynamics.
-
-### Human-Computer Interaction
-Our HCI work focuses on designing and evaluating interactive computing systems — from open-source educational software to VR user experience research aimed at enhancing well-being and equity.
+> AURA Lab is the May 2026 rebrand of the former SIM Lab (Social & Interactive Media Lab). Repos retain their existing names; the GitHub org was renamed from `SIM-Lab-SIUE` to `AURA-Lab-SIUE`.
 
 ---
 
-## 📁 Repositories
+## Research Focus
+
+### Virtual Environments
+Social interaction and behavior in immersive digital spaces — videoconferencing fatigue, team cohesion in virtual meetings, social support and accessibility in VRChat. Built on a completed $1.6M NSF initiative on the future of work in VR.
+
+### Streaming Platforms
+Video game players and the communities that form around gameplay on Twitch and adjacent platforms — parasocial relationships with streamers, avatar identity, and synchronous chat dynamics.
+
+### Computational Methods
+Sentiment analysis, topic modeling, network analysis, and applied NLP for communication research — including the TASS toolchain and open data pipelines.
+
+### Virtual Meetings
+Design and study of synchronous mediated interaction in work and learning contexts, in collaboration with the [Beyond Meet Space](http://beyondmeet.space/) research collective.
+
+---
+
+## Repositories
 
 | Repository | Description | Language |
 |---|---|---|
-| [the-cage](https://github.com/SIM-Lab-SIUE/the-cage) | Next.js app for reserving and managing production equipment for SIUE Mass Communications | TypeScript |
-| [equipment-checkout](https://github.com/SIM-Lab-SIUE/equipment-checkout) | Web app for managing and reserving equipment in the Mass Communications department | TypeScript |
-| [coursepackR](https://github.com/SIM-Lab-SIUE/coursepackR) | Coursework material for MC 451 + 501 | R |
-| [liaison-program](https://github.com/SIM-Lab-SIUE/liaison-program) | MC Research Methods: The Liaison Program — course website for MC-451 | SCSS |
-| [mc451-liaison-program](https://github.com/SIM-Lab-SIUE/mc451-liaison-program) | Liaison Program course website with Obsidian vault | HTML |
-| [vibes-to-variables](https://github.com/SIM-Lab-SIUE/vibes-to-variables) | *From Vibes to Variables: A Field Guide to Open Media Science* | SCSS |
-| [banned-word-checker](https://github.com/SIM-Lab-SIUE/banned-word-checker) | Tool to test Word or PDF documents against a list of banned words | Python |
-| [mc-careers-dashboard](https://github.com/SIM-Lab-SIUE/mc-careers-dashboard) | Careers dashboard for Mass Communications students | Svelte |
-| [SIM-Lab-SIUE.github.io](https://github.com/SIM-Lab-SIUE/SIM-Lab-SIUE.github.io) | Lab website source | HTML |
+| [AURA-Lab-SIUE.github.io](https://github.com/AURA-Lab-SIUE/AURA-Lab-SIUE.github.io) | Lab website source | HTML |
+| [vibes-to-variables](https://github.com/AURA-Lab-SIUE/vibes-to-variables) | *From Vibes to Variables: A Field Guide to Open Media Science* (OER textbook) | SCSS |
+| [v2v](https://github.com/AURA-Lab-SIUE/v2v) | Companion R package for the *Vibes to Variables* textbook | R |
+| [coursepackR](https://github.com/AURA-Lab-SIUE/coursepackR) | Coursework material for MC-451 + MC-501 | R |
+| [open-methods-hub](https://github.com/AURA-Lab-SIUE/open-methods-hub) | MC Research Methods course website (MC-451) | SCSS |
+| [mc451-liaison-program](https://github.com/AURA-Lab-SIUE/mc451-liaison-program) | Companion Obsidian vault for MC-451 | HTML |
+| [mc-careers-dashboard](https://github.com/AURA-Lab-SIUE/mc-careers-dashboard) | Careers dashboard for Mass Communications students | Svelte |
+| [equipment-checkout](https://github.com/AURA-Lab-SIUE/equipment-checkout) | Web app for reserving Mass Comm production equipment | TypeScript |
+| [banned-word-checker](https://github.com/AURA-Lab-SIUE/banned-word-checker) | Word / PDF document checker against a banned-terms list | Python |
+| [open-webui-launcher](https://github.com/AURA-Lab-SIUE/open-webui-launcher) | One-click launcher for Open WebUI with DeepSeek-R1 via Docker | Python |
+| [hate-raids](https://github.com/AURA-Lab-SIUE/hate-raids) | Data + analysis for the Hate Raids paper (Twitch coordinated harassment) | R |
+| [Comm-Theories](https://github.com/AURA-Lab-SIUE/Comm-Theories) | Interactive guide to mass communication theories | HTML |
 
 ---
 
-## 🏫 About
+## About
 
-The SIM Lab is housed in the **Department of Mass Communications** at Southern Illinois University Edwardsville. We bring together faculty and student researchers to investigate the behavioral, social, and design dimensions of emerging media technologies.
+AURA Lab is housed in the **Department of Mass Communications** at Southern Illinois University Edwardsville. The lab brings together faculty and student researchers to investigate the behavioral, social, and design dimensions of mediated interaction.
+
+For industry consulting and applied software, see [SIM DAD LLC](https://github.com/SIM-DAD) — a separate venture run by the lab director.
 
 ---
 
-## 📬 Contact
+## Contact
 
 - **Email:** [aleith@siue.edu](mailto:aleith@siue.edu)
-- **Lab Director:** [Dr. Alex P. Leith](https://apleith.github.io)
-- **Website:** [sim-lab-siue.github.io](https://sim-lab-siue.github.io)
-- **Medium:** [medium.com/sim-lab-siue](https://medium.com/sim-lab-siue)
+- **Director:** [Dr. Alex P. Leith](https://apleith.com)
+- **Website:** [aura-lab-siue.github.io](https://aura-lab-siue.github.io)
